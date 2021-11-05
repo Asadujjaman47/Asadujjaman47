@@ -1,17 +1,33 @@
-<h1 align="center">Hi 👋, I'm Asadujjaman</h1>
+
+<h2> Hey there! I'm Asad. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <h3 align="center">A tech enthusiast | Programmer | Learner</h3>
+<img 
+src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadujjaman47&label=Profile%20views&color=0e75b6&style=flat" alt="asadujjaman47" /> </p>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning **Data Structures and Algorithms, Web Development, Framework etc**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Complete graduation in Computer Science and Engineering.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in Machine learning, Data Science and Artificial Intelligence .
+- ✍️ &nbsp; Watching Movies/Series and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of tea/coffee can be the ultimate solution for any stress. 
+- 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C++ | C 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Heroku| Xampp
+- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Illustrator | Photoshop
+
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadujjaman47" alt="asadujjaman47" /></a> </p>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, Framework, Course etc**
-
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
-
-- 📫 How to reach me **asadujjaman255@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
