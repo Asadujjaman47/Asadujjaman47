@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Asad. :wave: </h2>
+<h2> Hey there! I'm Asad. <img src="https://tenor.com/view/hi-gif-23520343"> </h2>
 <h3 align="center">A tech enthusiast | Programmer | Learner</h3>
 <img 
 src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
