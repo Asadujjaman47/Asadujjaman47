@@ -1,8 +1,7 @@
 
 <h2> Hey there! I'm Asad. :wave: </h2>
 <h3 align="center">A tech enthusiast | Programmer | Learner</h3>
-<h2><img 
-src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2>:zap::zap::zap:</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadujjaman47&label=Profile%20views&color=0e75b6&style=flat" alt="asadujjaman47" /> </p>
