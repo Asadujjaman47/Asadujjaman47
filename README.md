@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Asad. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Asad. <img src=":wave:"></h2>
 <h3 align="center">A tech enthusiast | Programmer | Learner</h3>
 <img 
 src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
