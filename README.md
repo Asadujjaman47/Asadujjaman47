@@ -6,13 +6,9 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/41225800?s=400&u=5ca12dd24f57fbcdabf3c49956e16390d0a0d93c&v=4"  />
-
-###
-
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/Asadujjaman47/count.svg?"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Asadujjaman47.Asadujjaman47&"  />
 
 ###
 
