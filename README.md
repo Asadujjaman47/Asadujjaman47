@@ -2,9 +2,9 @@
 
 ###
 
-<h2 align="center">A Tech Enthusiast | Programmer | Learner</h2>
+<!-- <h2 align="center">A Tech Enthusiast | Programmer | Learner</h2> -->
 
-###
+<!-- ###
 
 <br clear="both">
 
@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/Asadujjaman47/Asadujjaman47/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/asadujjaman10212" target="_blank">
@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">I'm ASAD and welcome to my GitHub account.<br><br>- 💼 I’m working as Software Engineer<br>- 🎓 Complete graduation in Computer Science and Engineering<br>- 🤔 Exploring new technologies and developing software solutions and quick hacks<br>- 🌱 Enthusiast in Web Engineering, Machine learning, Data Science and Artificial Intelligence<br>- ⚡ Watching Movies/Series and trying out latest design trends as hobbies/side hustles<br>- ☕ I believe, a perfect cup of coffee can be the ultimate solution for any stress.</p>
+<p align="left">I'm ASAD and welcome to my GitHub account.<br><br>- 💼 I’m working as Software Engineer<br>- 🎓 Complete graduation in Computer Science and Engineering<br>- 🤔 Exploring new technologies and developing software solutions and quick hacks<br>- 🌱 Enthusiast in Web Engineering, Machine learning, Data Science and Artificial Intelligence<br>- ☕ I believe, a perfect cup of coffee can be the ultimate solution for any stress.</p>
 
 ###
 
@@ -63,9 +63,20 @@
 
 ###
 
-<p align="left">💻 Language:   C |  C++ | Python | Java |  JavaScript | TypeScript<br>📟 Frontend: HTML | CSS | Angular | React | Bootstrap | Tailwind<br>🌐 Backend: Sprint Boot | Node.JS | Express.JS | Django<br>🛢 MySQL | Oracle | Postgres | MongoDB<br>☁️ Deployment: Netlify | Firebase | Heroku | GitHub Pages | Tomcat <br>🛠️ Development: Visual Studio code | IntelliJ | PyCharm | ATOM<br>🖥️ Others: Google Workspace | Microsoft Office | Notion | Canva | Docker</p>
+<!-- <p align="left">💻 Language:   C++ | Python | Java |  JavaScript | TypeScript<br>📟 Frontend: HTML | CSS | Angular | React | Tailwind<br>🌐 Backend: Sprint Boot | Node.JS<br>🛢 MySQL | Oracle | Postgres | MongoDB<br>☁️ Deployment: Netlify | Firebase | Heroku | GitHub Pages<br>🛠️ Development: Visual Studio code | IntelliJ | PyCharm<br>🖥️ Others: Google Workspace | Microsoft Office | Notion | Canva | Docker</p> -->
 
-###
+<p align="left">💻 Language: C++ | Java | JavaScript | Python<br>
+🛠️ IT Constructs: Data Structure | Algorithms | OOP | SQL | NoSQL<br>
+🌐 Backend: Spring Boot | NodeJS | NextJS<br>
+📟 Frontend: HTML | CSS | React | Angular | Tailwind<br>
+🛢 Database: MySQL | MongoDB | Oracle<br>
+☁️ Version Control: Git | GitHub | GitLab<br>
+🔨 Development tools: IntelliJ |Visual Studio code | Postman<br>
+🔥 Web Service: REST API<br>
+💢 Microservices: Microservices Architecture<br>
+🖥️ Others: Linux | Notion | Jira | Slack</p>
+
+<!-- ###
 
 <p align="center"></p>
 
@@ -178,9 +189,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
-</div>
+</div> -->
 
-###
+<!-- ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -192,4 +203,4 @@
   <img src="https://streak-stats.demolab.com?user=Asadujjaman47&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+### -->
